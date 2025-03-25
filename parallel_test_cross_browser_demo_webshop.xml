@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite"  parallel="tests" thread-count="2" >
+    <test verbose="2" preserve-order="true"
+          name="Fire_fox_test">
+        <parameter name="os" value="windows"></parameter>
+        <parameter name="browser" value="Firefox"></parameter>
+
+        <classes>
+            <class name="Test_cases_for_webshope.Login_webshop_Test_002">
+                <methods>
+                    <include name="Login_test"/>
+                </methods>
+            </class>
+            <class name="Test_cases_for_webshope.Reg_demo_wenshop_Test_001">
+                <methods>
+                    <include name="TestCases1"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+
+    <test verbose="2" preserve-order="true"
+          name="Chrome_test">
+        <parameter name="os" value="windows"></parameter>
+        <parameter name="browser" value="Chrome"></parameter>
+
+        <classes>
+            <class name="Test_cases_for_webshope.Login_webshop_Test_002">
+                <methods>
+                    <include name="Login_test"/>
+                </methods>
+            </class>
+            <class name="Test_cases_for_webshope.Reg_demo_wenshop_Test_001">
+                <methods>
+                    <include name="TestCases1"/>
+
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+    <test verbose="2" preserve-order="true"
+          name="Edge_test">
+        <parameter name="os" value="windows"></parameter>
+        <parameter name="browser" value="Edge"></parameter>
+
+        <classes>
+            <class name="Test_cases_for_webshope.Login_webshop_Test_002">
+                <methods>
+                    <include name="Login_test"/>
+
+                </methods>
+            </class>
+            <class name="Test_cases_for_webshope.Reg_demo_wenshop_Test_001">
+                <methods>
+                    <include name="TestCases1"/>
+
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

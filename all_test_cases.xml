@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/hp/IdeaProjects/demowebshop/src/test/java/Test_cases_for_webshope">
+        <classes>
+            <class name="Test_cases_for_webshope.Login_webshop_Test_002">
+                <methods>
+                    <include name="Login_test"/>
+
+                </methods>
+            </class>
+            <class name="Test_cases_for_webshope.Reg_demo_wenshop_Test_001">
+                <methods>
+                    <include name="TestCases1"/>
+
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
