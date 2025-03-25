@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/hp/IdeaProjects/demowebshop/src/test/java/TestCases">
+        <parameter name="os" value="windows"></parameter>
+        <parameter name="browser" value="chrome"></parameter>
+
+        <classes>
+            <class name="TestCases.LogFileTest">
+                <methods>
+                    <include name="Test_Reg_log_001"/>
+                </methods>
+            </class>
+<!--            <class name="TestCases.Test_cases_demo1">-->
+<!--                <methods>-->
+<!--                    <include name="Test_Reg_001"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+<!--            <class name="TestCases.Test_demo_p">-->
+<!--                <methods>-->
+<!--                    <include name="Test1"/>-->
+<!--                    <include name="Test2"/>-->
+<!--                    <include name="Test3"/>-->
+<!--                    <include name="Test4"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+        </classes>
+    </test>
+
+
+</suite>

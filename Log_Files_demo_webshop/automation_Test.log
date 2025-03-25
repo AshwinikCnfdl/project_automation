@@ -1,0 +1,50 @@
+2025-03-25 10:33:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-03-25 10:33:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 47 ms.
+2025-03-25 10:33:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-25 10:33:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-25 10:33:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-25 10:33:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-25 10:33:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-25 10:33:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-25 10:33:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 54 ms.
+2025-03-25 10:33:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 19 ms.
+2025-03-25 10:33:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-25 10:33:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-25 10:33:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-25 10:33:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-25 10:33:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-25 10:33:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-25 10:33:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-25 10:33:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-25 10:33:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-25 10:33:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-25 10:33:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-25 10:33:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-25 10:33:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-25 10:33:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-25 10:33:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-03-25 10:33:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-25 10:33:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-25 10:33:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-25 10:33:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-25 10:33:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-25 10:33:29 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\IdeaProjects\demowebshop\Master_suite.xml
+
+2025-03-25 10:33:29 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 10 ms.
+2025-03-25 10:33:29 [main] INFO  TestCases.LogFileTest - Starting test execution on OS: windows | Browser: chrome
+2025-03-25 10:33:37 [main] INFO  TestCases.LogFileTest - Launched Chrome Browser
+2025-03-25 10:33:41 [main] INFO  TestCases.LogFileTest - Navigated to application: https://demowebshop.tricentis.com/
+2025-03-25 10:33:42 [main] INFO  TestCases.LogFileTest - ********************* Started test case: Test_Reg_log_001 ******************
+2025-03-25 10:33:42 [main] INFO  TestCases.LogFileTest - Opening the browser and navigating to the URL
+2025-03-25 10:33:42 [main] INFO  TestCases.LogFileTest - ****************** Home Page Loaded ******************
+2025-03-25 10:33:43 [main] INFO  TestCases.LogFileTest - Clicked on the Register link
+2025-03-25 10:33:43 [main] INFO  TestCases.LogFileTest - Entered First Name
+2025-03-25 10:33:43 [main] INFO  TestCases.LogFileTest - Entered Last Name
+2025-03-25 10:33:43 [main] INFO  TestCases.LogFileTest - Entered Email ID
+2025-03-25 10:33:44 [main] INFO  TestCases.LogFileTest - Entered Password
+2025-03-25 10:33:44 [main] INFO  TestCases.LogFileTest - Entered Confirm Password
+2025-03-25 10:33:45 [main] INFO  TestCases.LogFileTest - Clicked on Register Button
+2025-03-25 10:33:46 [main] INFO  TestCases.LogFileTest - Browser closed successfully.
+2025-03-25 10:33:47 [main] INFO  TestCases.LogFileTest - Extent Report Generated.
+2025-03-25 10:33:47 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@446626a7: 0 ms

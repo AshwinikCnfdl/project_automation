@@ -1,0 +1,46 @@
+2025-03-23 19:28:03 [main] INFO  org.testng.internal.Utils - [Warning] The regular expression "Login_test" didn't match any method in class Test_cases_for_webshope.Login_webshop_Test_002
+2025-03-23 19:28:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-23 19:28:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2025-03-23 19:28:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-23 19:28:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-23 19:28:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-23 19:28:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-23 19:28:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-23 19:28:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-23 19:28:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 11 ms.
+2025-03-23 19:28:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 19 ms.
+2025-03-23 19:28:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-23 19:28:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-03-23 19:28:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-23 19:28:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-23 19:28:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-23 19:28:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-23 19:28:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-23 19:28:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-23 19:28:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-23 19:28:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-23 19:28:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-23 19:28:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-23 19:28:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-23 19:28:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-23 19:28:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-23 19:28:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-23 19:28:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-23 19:28:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-23 19:28:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-23 19:28:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-23 19:28:03 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\IdeaProjects\demowebshop\Master_suite_webshope.xml
+
+2025-03-23 19:28:04 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+2025-03-23 19:28:07 [main] INFO  Test_cases_for_webshope.Login_webshop_Test_002 - open the ChromeBrowser
+2025-03-23 19:28:10 [main] INFO  Test_cases_for_webshope.Login_webshop_Test_002 - ************ Login_webshop_Test_002 ************
+2025-03-23 19:28:10 [main] INFO  Test_cases_for_webshope.Login_webshop_Test_002 - Navigating to login page...
+2025-03-23 19:28:10 [main] INFO  Test_cases_for_webshope.Login_webshop_Test_002 - Clicking on the login link...
+2025-03-23 19:28:11 [main] INFO  Test_cases_for_webshope.Login_webshop_Test_002 - Entering email: kjiabcc@gmail.com
+2025-03-23 19:28:12 [main] INFO  Test_cases_for_webshope.Login_webshop_Test_002 - Entering password...
+2025-03-23 19:28:12 [main] INFO  Test_cases_for_webshope.Login_webshop_Test_002 - Clicking on login button...
+2025-03-23 19:28:13 [main] INFO  Test_cases_for_webshope.Login_webshop_Test_002 - Validating login...
+2025-03-23 19:28:13 [main] ERROR Test_cases_for_webshope.Login_webshop_Test_002 - Login validation failed! Expected email: kjiabcc@gmail.com
+2025-03-23 19:28:13 [main] INFO  Test_cases_for_webshope.Login_webshop_Test_002 - Test execution completed.
+2025-03-23 19:28:13 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@29852487: 1 ms

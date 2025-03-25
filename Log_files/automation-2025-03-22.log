@@ -1,0 +1,24 @@
+2025-03-22 21:08:10 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+2025-03-22 21:08:19 [main] INFO  TestCases.LogFileTest -  ********************* Stared test Cases Test_Reg_log_001  ****************** 
+2025-03-22 21:08:19 [main] INFO  TestCases.LogFileTest -                 open the browser and navigetd to url
+2025-03-22 21:08:19 [main] INFO  TestCases.LogFileTest -  ****************** home page ***************** 
+2025-03-22 21:08:21 [main] INFO  TestCases.LogFileTest -  *************** click on the reg link  *************************
+2025-03-22 21:08:21 [main] INFO  TestCases.LogFileTest -   Enter the Fn 
+2025-03-22 21:08:21 [main] INFO  TestCases.LogFileTest -   Enter the ln 
+2025-03-22 21:08:21 [main] INFO  TestCases.LogFileTest -   Enter the email id 
+2025-03-22 21:08:22 [main] INFO  TestCases.LogFileTest -   Enter the pwd 
+2025-03-22 21:08:22 [main] INFO  TestCases.LogFileTest -   Enter the cpwd 
+2025-03-22 21:39:25 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+2025-03-22 21:39:36 [main] INFO  TestCases.LogFileTest -  ********************* Stared test Cases Test_Reg_log_001  ****************** 
+2025-03-22 21:39:36 [main] INFO  TestCases.LogFileTest -                 open the browser and navigetd to url
+2025-03-22 21:39:36 [main] INFO  TestCases.LogFileTest -  ****************** home page ***************** 
+2025-03-22 21:39:37 [main] INFO  TestCases.LogFileTest -  *************** click on the reg link  *************************
+2025-03-22 21:39:38 [main] INFO  TestCases.LogFileTest -   Enter the Fn 
+2025-03-22 21:39:38 [main] INFO  TestCases.LogFileTest -   Enter the ln 
+2025-03-22 21:39:38 [main] INFO  TestCases.LogFileTest -   Enter the email id 
+2025-03-22 21:39:39 [main] INFO  TestCases.LogFileTest -   Enter the pwd 
+2025-03-22 21:39:39 [main] INFO  TestCases.LogFileTest -   Enter the cpwd 
