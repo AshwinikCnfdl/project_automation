@@ -45,7 +45,7 @@ public class Login_webshop_Test_002 extends Base_class {
             Assert.fail("Test failed due to exception: " + e.getMessage());
         } finally {
             logger.info("Test execution completed.");
-            System.out.println("hello");
+
         }
     }
 }
