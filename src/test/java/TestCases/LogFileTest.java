@@ -4,7 +4,7 @@ import POM_pages.Reg_page;
 import Test_Base.Base_class;
 import org.testng.annotations.Test;
 import com.aventstack.extentreports.Status;
-import static utilities.ScreenshotUtil.takeScreenshot;
+//import static utilities.ScreenshotUtil.takeScreenshot;
 public class LogFileTest extends Base_class {
     @Test
     public void Test_Reg_log_001() {
