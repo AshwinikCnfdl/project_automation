@@ -9,9 +9,7 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import org.testng.Assert;
-
 import java.io.File;
-
 import static utilities.ScreenshotUtil.takeScreenshot;
 
 public class Login_webshop_Test_002 extends Base_class {
@@ -48,7 +46,7 @@ public class Login_webshop_Test_002 extends Base_class {
             lp.click_on_submit();
 
             test.log(Status.INFO, "Validating Login...");
-            boolean test_res = lp.validating_logged_in_email("abc@gmail.com12346");
+            boolean test_res = lp.validating_logged_in_email(email);
 
             if (!test_res) {
                 test.log(Status.FAIL, "Login Failed for email: " + email);
