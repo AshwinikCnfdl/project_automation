@@ -1,6 +1,6 @@
 package Test_Base;
 
-
+//import io.github.bonigarcia.wdm.WebDriverManager;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.apache.commons.io.FileUtils;
@@ -43,7 +43,7 @@ public class Base_class {
         FileInputStream file = new FileInputStream("./src/main/resources/config.properties");
         p.load(file);
 
-        // Browser setup
+        // Browser setup using WebDriverManager
         switch (browser.toLowerCase()) {
             case "chrome":
                 driver = new ChromeDriver();
